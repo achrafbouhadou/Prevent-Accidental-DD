@@ -11,4 +11,4 @@ This repository provides a shell script to prevent accidental commits containing
 Clone this repository to your local machine:
 
 ```bash
-git clone [Repository URL]
+git clone https://github.com/achrafbouhadou/Prevent-Accidental-DD.git
